@@ -1,7 +1,4 @@
 # Lightweight MapReduce framework
-Final project for CMU 15-618 Parallel Computer Architecture and Programming ([website](http://www.cs.cmu.edu/~418/))
-
-For more background and introduction, please see our project [website](https://git.hzh0512.com/p/mapreduce) for details.
 
 ## Introduction
 
