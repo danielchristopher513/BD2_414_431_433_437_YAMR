@@ -1,0 +1,4 @@
+Start word from 3.
+Checkin in 3.
+connected to target 0.
+time taken is 5.83519sec 

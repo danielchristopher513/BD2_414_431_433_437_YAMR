@@ -1,0 +1,10 @@
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/CMakeFiles/edit_cache.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/CMakeFiles/rebuild_cache.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/src/CMakeFiles/lmr.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/src/CMakeFiles/edit_cache.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/src/CMakeFiles/rebuild_cache.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/tests/CMakeFiles/testing_red.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/tests/CMakeFiles/testing_map.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/tests/CMakeFiles/testing_map_reduce.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/tests/CMakeFiles/edit_cache.dir
+/home/danielchristopher/Documents/Lightweight-MapReduce/build/tests/CMakeFiles/rebuild_cache.dir

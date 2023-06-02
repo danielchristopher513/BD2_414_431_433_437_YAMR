@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -rdynamic CMakeFiles/testing_map_reduce.dir/testing_map_reduce.cpp.o -o testing_map_reduce   -L/usr/local/lib  -L/home/danielchristopher/private/libssh/lib  -Wl,-rpath,/usr/local/lib:/home/danielchristopher/private/libssh/lib ../src/liblmr.a -levent_core -levent_pthreads -lpthread -lssh 

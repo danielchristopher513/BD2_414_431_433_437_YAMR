@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblmr.a CMakeFiles/lmr.dir/netcomm.cpp.o CMakeFiles/lmr.dir/mapper.cpp.o CMakeFiles/lmr.dir/mapinput.cpp.o CMakeFiles/lmr.dir/hash.cpp.o CMakeFiles/lmr.dir/mapreduce.cpp.o CMakeFiles/lmr.dir/reducer.cpp.o CMakeFiles/lmr.dir/reduceinput.cpp.o
+/usr/bin/ranlib liblmr.a
