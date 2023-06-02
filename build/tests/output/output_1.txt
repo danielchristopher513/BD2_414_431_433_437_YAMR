@@ -1,5 +1,0 @@
-Start word from 1.
-Checkin in 1.
-connected to target 0.
-Time taken to compute Map: 4.111297.
-time taken is 5.83519sec 
